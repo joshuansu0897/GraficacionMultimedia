@@ -1,0 +1,13 @@
+html,
+body {
+    background: #333;
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    padding-top: 5%
+}
+
+svg {
+    height: 400px;
+    width: 400px;
+}
