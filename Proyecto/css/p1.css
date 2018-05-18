@@ -1,7 +1,11 @@
 svg {
-    border: 5px solid rgb(121, 121, 121);
     display: block;
     margin: 1em auto;
     height: 350px;
     width: 500px;
+}
+
+body,
+html{
+    background: black
 }
