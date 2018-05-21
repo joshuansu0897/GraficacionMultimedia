@@ -1,11 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 svg {
+    position: fixed;
+    top: 20%;
+    left: 33%;
     display: block;
     margin: 1em auto;
     height: 350px;
     width: 500px;
 }
 
-body,
-html{
-    background: black
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background: rgb(0, 0, 0);
 }
